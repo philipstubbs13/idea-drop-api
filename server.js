@@ -18,7 +18,7 @@ connectDB();
 // CORS Config
 const allowedOrigins = [
   "http://localhost:3000",
-  "https://idea-drop-ui-flame.vercel.app/",
+  "https://idea-drop-ui-flame.vercel.app",
 ];
 
 app.use(
